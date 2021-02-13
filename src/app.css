@@ -13,4 +13,6 @@ main{
 
 .contentSec{
     width: 75%;
+    padding: 30px;
+    border: 30px solid #453207;
 }
