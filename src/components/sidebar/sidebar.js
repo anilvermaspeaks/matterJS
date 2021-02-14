@@ -5,6 +5,8 @@ export default function sidebar() {
     return (
         <aside className={Styles.aside}>
             <Link className={Styles.link} to="/simple">Simple</Link>
+            <Link className={Styles.link} to="/methods">Methods</Link>
+            <Link className={Styles.link} to="/game">Game</Link>
         </aside>
     )
 }
